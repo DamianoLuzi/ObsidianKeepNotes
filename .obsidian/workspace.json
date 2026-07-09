@@ -102,12 +102,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unconventional Workout Strategy.md",
+                "file": "Content Creation 🎨📸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unconventional Workout Strategy"
+              "title": "Content Creation 🎨📸"
             }
           }
         ],
@@ -246,21 +246,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Content Creation 🎨📸.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Content Creation 🎨📸"
+            }
+          },
+          {
+            "id": "d5f2f8c066c13fcf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,6 +286,7 @@
   },
   "active": "09b3c27e69ba51ed",
   "lastOpenFiles": [
+    "Unconventional Workout Strategy.md",
     "Small talks 15 ways to start a convo  with anyone.md",
     "Journaling📖.md",
     "Content Creation 🎨📸.md",
@@ -283,7 +294,6 @@
     "obsidian-git/manifest.json",
     "obsidian-git/main.js",
     "obsidian-git",
-    "Unconventional Workout Strategy.md",
     "Welcome.md"
   ]
 }
