@@ -11,10 +11,14 @@
             "id": "95a5fc3c25cf610a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "New note test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "New note test"
             }
           }
         ]
@@ -164,6 +168,7 @@
   },
   "active": "95a5fc3c25cf610a",
   "lastOpenFiles": [
+    "New note test.md",
     "Communication.md",
     "Books 📚.md",
     "/Communication.md",
