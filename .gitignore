@@ -1,0 +1,13 @@
+# Obsidian - machine-specific files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/backups
+
+# OS files
+.DS_Store
+.trash/
+
+# Obsidian Git conflict files
+conflict-files-obsidian-git.md
