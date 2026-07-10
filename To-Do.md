@@ -73,32 +73,32 @@
 - [x] Reach out to Simone for relocating to Spain advice
 - [x] Questions for Rafa:
   - [x] How to be successful in this team
-  - [ ] How to help with design processes while still learning the domain
-  - [ ] How to contribute beyond implementations
-- [ ] Need to submit reports within Friday because card will be closed
-- [ ] Time block more — context switching kills productivity
-- [ ] Salary negotiation
-- [ ] Ask team about financial advice
-- [ ] Check in with relocation agency
-- [ ] Return laptop
-- [ ] Return laptop on Feb 26th
+  - [x] How to help with design processes while still learning the domain
+  - [x] How to contribute beyond implementations
+- [x] Need to submit reports within Friday because card will be closed
+- [x] Time block more — context switching kills productivity
+- [x] Salary negotiation
+- [x] Ask team about financial advice
+- [x] Check in with relocation agency
+- [x] Return laptop
+- [x] Return laptop on Feb 26th
 
 ## Software / Projects
 
-- [ ] Describe changesets
-- [ ] If enough time:
-  - [ ] Receive spending summary / over-budget alerts
-  - [ ] Add in ReFunct
-  - [ ] Define use case
-  - [ ] Create Use Case Diagram
-- [ ] Add delete for transactions
-- [ ] Add budgets/categories
-- [ ] Proper filtering in Flutter
-- [ ] Possibly right colour scheme
-- [ ] Technical error:
-  - [ ] `"An unexpected error occurred", message: "Object of type Decimal is not JSON serializable"`
-- [ ] Redeploy chat app stack to eu-west-2 without overwriting stuff
-- [ ] Lambda Monolith → Microservices  
+- [x] Describe changesets
+- [x] If enough time:
+  - [x] Receive spending summary / over-budget alerts
+  - [x] Add in ReFunct
+  - [x] Define use case
+  - [x] Create Use Case Diagram
+- [x] Add delete for transactions
+- [x] Add budgets/categories
+- [x] Proper filtering in Flutter
+- [x] Possibly right colour scheme
+- [x] Technical error:
+  - [x] `"An unexpected error occurred", message: "Object of type Decimal is not JSON serializable"`
+- [x] Redeploy chat app stack to eu-west-2 without overwriting stuff
+- [x] Lambda Monolith → Microservices  
   https://docs.aws.amazon.com/it_it/lambda/latest/dg/concepts-event-driven-architectures.html
 - [ ] Ask Andrei about washing machine/dryer
 - [ ] Ask Storti:
