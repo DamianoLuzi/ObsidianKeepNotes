@@ -25,12 +25,12 @@
 - [ ] Plan holidays year
 - [ ] Reschedule or give up on May 15th flight
 - [ ] Reschedule May flights — sort out period + how many days in August
-- [ ] Book Madrid trains
-- [ ] Book Aveiro flights + trains
-- [ ] Book Lisbon Airbnb
-- [ ] Eventually look for Dublin accommodation
-- [ ] Book Ancona Bologna + Bologna Ancona trains
-- [ ] Airbnb check in
+- [x] Book Madrid trains
+- [x] Book Aveiro flights + trains
+- [x] Book Lisbon Airbnb
+- [x] Eventually look for Dublin accommodation
+- [x] Book Ancona Bologna + Bologna Ancona trains
+- [x] Airbnb check in
 
 ## Content Creation / LifeMaxxing
 
@@ -41,7 +41,7 @@
 - [ ] Start recording yourself/content creation streak (100 day challenge-ish)
 - [ ] Find out how/where to sell protein bars
 - [ ] Stary reading
-- [ ] Good morning in each language
+- [x] Good morning in each language
 - [ ] Delve into lucid dreaming science
 - [ ] Delve into the language of flowers
 
