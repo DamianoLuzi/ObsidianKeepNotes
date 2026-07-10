@@ -133,11 +133,11 @@
 - [ ] Schedule coffee with Fachtna
 - [ ] Shoot message to Lara for coffee rave
 - [ ] Send messages/referrals for Leo
-- [ ] Elea birthday message/letter
-- [ ] Reply to Elsi for wisdom teeth removal
-- [ ] Reach out to Keith Howard
-- [ ] Reach out to Nadya and Amri about apartment free from November
-- [ ] Casually ask mom about songs she likes like "Shiny Happy People"
+- [x] Elea birthday message/letter
+- [x] Reply to Elsi for wisdom teeth removal
+- [x] Reach out to Keith Howard
+- [x] Reach out to Nadya and Amri about apartment free from November
+- [x] Casually ask mom about songs she likes like "Shiny Happy People"
 - [ ] Tell parents you love them
 
 ## Fitness / Health / Food
