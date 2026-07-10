@@ -210,4 +210,4 @@
 - [ ] Tell about Tour de France
 - [ ] Fire alarms
 - [ ] Tell about park made out of hated bushes
-- [ ] Mention walking and fascia because of looking olde
+- [ ] Mention walking and fascia because of looking older
