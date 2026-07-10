@@ -145,7 +145,7 @@
 - [ ] Eating more carbs
 - [ ] Balance kettlebells, strength, running, calisthenics and beach
 - [ ] Gym membership
-- [ ] Gym in shorts + tote bag routine:
+- [x] Gym in shorts + tote bag routine:
   - [ ] Figure out running/ski/heavy lifts
   - [ ] Change so outfit ready
   - [ ] Come back
@@ -176,9 +176,9 @@
 - [ ] Big blue towel
 - [ ] Small bottle with sea salt spray
 - [ ] Gym t-shirts
-- [ ] Hide Elf bars properly
-- [ ] Replace phone screen
-- [ ] Check Carhartt aviation pants physically
+- [x] Hide Elf bars properly
+- [x] Replace phone screen
+- [x] Check Carhartt aviation pants physically
 - [ ] Gigli life changing shoes
 - [ ] First Ascent  
   https://spain.firstascent.io/
