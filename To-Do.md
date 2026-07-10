@@ -60,7 +60,7 @@
 - [ ] Check Vialto docs
 - [ ] Call Revenue to ask to be tax resident and receive tax credit
 - [ ] Upload IBAN on fisco website for IVA refund
-- [ ] Check lease contract
+- [x] Check lease contract
 
 ## Career / Amazon / Work
 
@@ -68,11 +68,11 @@
 - [ ] Check extra benefits  
   https://extrasforamazon.com/welcome/register
 - [ ] Slack housing channel
-- [ ] Ask team about Simone's relocation and financial advice
-- [ ] Find out whether Revolut investing is worth it + how
-- [ ] Reach out to Simone for relocating to Spain advice
-- [ ] Questions for Rafa:
-  - [ ] How to be successful in this team
+- [x] Ask team about Simone's relocation and financial advice
+- [x] Find out whether Revolut investing is worth it + how
+- [x] Reach out to Simone for relocating to Spain advice
+- [x] Questions for Rafa:
+  - [x] How to be successful in this team
   - [ ] How to help with design processes while still learning the domain
   - [ ] How to contribute beyond implementations
 - [ ] Need to submit reports within Friday because card will be closed
