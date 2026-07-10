@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content Creation 🎨📸.md",
+                "file": "New note test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Content Creation 🎨📸"
+              "title": "New note test"
+            }
+          },
+          {
+            "id": "85ba079ed5f13212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To-Do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "95a5fc3c25cf610a",
+  "active": "85ba079ed5f13212",
   "lastOpenFiles": [
-    "Small talks 15 ways to start a convo  with anyone.md",
     "New note test.md",
+    "To-Do.md",
+    "Small talks 15 ways to start a convo  with anyone.md",
+    "Content Creation 🎨📸.md",
     "Communication.md",
     "Books 📚.md",
     "/Communication.md",
