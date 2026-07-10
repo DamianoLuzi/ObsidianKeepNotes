@@ -4,6 +4,7 @@
 .obsidian/graph.json
 .obsidian/cache
 .obsidian/backups
+.obsidian/plugins/obsidian-git/data.json
 
 # OS files
 .DS_Store
@@ -11,3 +12,6 @@
 
 # Obsidian Git conflict files
 conflict-files-obsidian-git.md
+
+/conflict-files-obsidian-git.md
+/data.json
