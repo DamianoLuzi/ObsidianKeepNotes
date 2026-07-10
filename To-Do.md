@@ -187,8 +187,8 @@
 
 - [ ] Cascate delle cento fonti
 - [ ] Bologna getaway
-- [ ] Water parks
-- [ ] Palacio Chiado
+- [x] Water parks
+- [x] Palacio Chiado
 - [ ] Sagrada 140th anniversary band concert
 - [ ] Tour de France
 - [ ] Petardos
@@ -210,19 +210,4 @@
 - [ ] Tell about Tour de France
 - [ ] Fire alarms
 - [ ] Tell about park made out of hated bushes
-- [ ] Mention walking and fascia because of looking older
-
-## University / Thesis
-
-- [ ] Presentazione Domanda:
-  - [ ] Specifica completamento mobilità mancata convalida tirocinio
-  - [ ] Ensure Scaradozzi has documents
-- [ ] Ask Galdelli whether internship should be mentioned in thesis
-- [ ] Ask Galdelli how to link thesis/internship
-- [ ] Reach out to internship@univpm right after Galdelli sync
-- [ ] Ask ACCC professor what AWS report/project could be done
-- [ ] Check in with Galdelli for thesis material
-- [ ] Ask Ursino about thesis setup
-- [ ] Book ricevimenti with Prof. Diamantini for Basi di Dati
-- [ ] Fill and send internship validation docs
-- [ ] Reach out to Lennart about internship certificate
+- [ ] Mention walking and fascia because of looking olde
