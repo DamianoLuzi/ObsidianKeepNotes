@@ -39,15 +39,14 @@
             "id": "1e456001783437b1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Beckham Law Investing Plan.md",
-                "bFile": "Beckham Law Investing Plan.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Beckham Law Investing Plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Beckham Law Investing Plan  (Index)"
+              "icon": "lucide-file",
+              "title": "Beckham Law Investing Plan"
             }
           }
         ],
