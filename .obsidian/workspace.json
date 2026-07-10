@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unconventional Workout Strategy.md",
+                "file": "Journaling📖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unconventional Workout Strategy"
+              "title": "Journaling📖"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5f2f8c066c13fcf",
+  "active": "93c82aea1980fa2d",
   "lastOpenFiles": [
-    "Content Creation 🎨📸.md",
-    "Unconventional Workout Strategy.md",
-    "Small talks 15 ways to start a convo  with anyone.md",
     "Journaling📖.md",
+    "Small talks 15 ways to start a convo  with anyone.md",
+    "Unconventional Workout Strategy.md",
+    "Content Creation 🎨📸.md",
     "obsidian-git/styles.css",
     "obsidian-git/manifest.json",
     "obsidian-git/main.js",
