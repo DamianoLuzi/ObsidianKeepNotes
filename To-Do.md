@@ -1,4 +1,4 @@
-
+- [ ] troubleshoot Beckham law notification https://maps.app.goo.gl/XeSN897uStjpovPc7
 ## Travel & Logistics
 
 - [ ] Check what metro segments will be closed
