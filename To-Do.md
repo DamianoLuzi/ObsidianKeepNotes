@@ -100,12 +100,12 @@
 - [x] Redeploy chat app stack to eu-west-2 without overwriting stuff
 - [x] Lambda Monolith → Microservices  
   https://docs.aws.amazon.com/it_it/lambda/latest/dg/concepts-event-driven-architectures.html
-- [ ] Ask Andrei about washing machine/dryer
-- [ ] Ask Storti:
-  - [ ] Jetpack Compose suitability
-  - [ ] Functional requirements
-  - [ ] Firebase file upload restrictions
-  - [ ] Flutter version of app
+- [x] Ask Andrei about washing machine/dryer
+- [x] Ask Storti:
+  - [x] Jetpack Compose suitability
+  - [x] Functional requirements
+  - [x] Firebase file upload restrictions
+  - [x] Flutter version of app
 
 ## Investing / Finance
 
@@ -114,7 +114,7 @@
 - [ ] Puneet money back
 - [ ] Ask Raffaele Cocco money again
 - [ ] Reach out to Raffaele Cocco for 20€
-- [ ] Latvian girl pizza money
+- [x] Latvian girl pizza money
 
 ## Social / Relationships
 
