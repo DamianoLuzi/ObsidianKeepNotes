@@ -78,6 +78,7 @@ tags:
 - [ ] always feeling like i was supposed for more: the fear of an average life
 - [ ] the paralysis of exactly knowing what you're supposed to do but not acting on it
 - [ ] Comparison leading to ungratefulness which makes you feel like life/the work is rejecting you - assume the world is kind to you [TikTok](https://vm.tiktok.com/ZNRKVdYLK/)
+- [ ] as pretentious as it sounds, I was meant for something bigger https://vm.tiktok.com/ZNREsE237/
 - [ ] Bourdainmaxxing 🤪
 
 
