@@ -1,7 +1,9 @@
 - [ ] troubleshoot Beckham law notification https://maps.app.goo.gl/XeSN897uStjpovPc7
-- [ ] black marker shoe
+- [x] black marker shoe
 - [ ] plan food for the week and trip
 - [ ] packing list 
+- [ ] switzerland train booking - find discounts
+- [ ] more content creation during dead times
 
 ## Travel & Logistics
 
