@@ -2,19 +2,22 @@
 - [x] black marker shoe
 - [ ] plan food for the week and trip
 - [ ] packing list:
-      loopband
-      sweatpants
-      black pants
-      shorts TBD
-      2 white 1 green Tshirts
-      [x] normal Tshirts
-      blue hoodie 
-      black socks
-      white socks
-      protein bars / powder 
-      potassium
-      adapters / powerbank
-      NorthFace raincoat
+	- [ ] loopband
+	- [ ] sweatpants
+	- [ ] black pants
+	- [ ] hat
+	- [ ] shades just in case - [ ]
+	- [ ] cross body bag
+	- [ ] shorts TBD
+    - [ ] 2 white 1 green Tshirts
+    - [ ] [x] normal Tshirts
+    - [ ] blue hoodie 
+    - [ ] black socks
+    - [ ] white socks
+    - [ ] protein bars / powder 
+    - [ ] potassium
+    - [ ] adapters / powerbank
+    - [ ] NorthFace raincoat
 - [ ] switzerland train booking - find discounts
 - [ ] more content creation during dead times
 
