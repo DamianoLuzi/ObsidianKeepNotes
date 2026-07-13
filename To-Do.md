@@ -89,30 +89,6 @@
 - [x] Return laptop
 - [x] Return laptop on Feb 26th
 
-## Software / Projects
-
-- [x] Describe changesets
-- [x] If enough time:
-  - [x] Receive spending summary / over-budget alerts
-  - [x] Add in ReFunct
-  - [x] Define use case
-  - [x] Create Use Case Diagram
-- [x] Add delete for transactions
-- [x] Add budgets/categories
-- [x] Proper filtering in Flutter
-- [x] Possibly right colour scheme
-- [x] Technical error:
-  - [x] `"An unexpected error occurred", message: "Object of type Decimal is not JSON serializable"`
-- [x] Redeploy chat app stack to eu-west-2 without overwriting stuff
-- [x] Lambda Monolith → Microservices  
-  https://docs.aws.amazon.com/it_it/lambda/latest/dg/concepts-event-driven-architectures.html
-- [x] Ask Andrei about washing machine/dryer
-- [x] Ask Storti:
-  - [x] Jetpack Compose suitability
-  - [x] Functional requirements
-  - [x] Firebase file upload restrictions
-  - [x] Flutter version of app
-
 ## Investing / Finance
 
 - [ ] Start investing
