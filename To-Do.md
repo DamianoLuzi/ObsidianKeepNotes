@@ -1,7 +1,20 @@
 - [ ] troubleshoot Beckham law notification https://maps.app.goo.gl/XeSN897uStjpovPc7
 - [x] black marker shoe
 - [ ] plan food for the week and trip
-- [ ] packing list 
+- [ ] packing list:
+      loopband
+      sweatpants
+      black pants
+      shorts TBD
+      2 white 1 green Tshirts
+      [x] normal Tshirts
+      blue hoodie 
+      black socks
+      white socks
+      protein bars / powder 
+      potassium
+      adapters / powerbank
+      NorthFace raincoat
 - [ ] switzerland train booking - find discounts
 - [ ] more content creation during dead times
 
