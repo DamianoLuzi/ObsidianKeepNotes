@@ -27,10 +27,10 @@
   - [ ] Pre-packaged bread (the one that lasts forever) or tortillas
   - [ ] Oats
 - [ ] Zurich drop off ok — how about Zurich pick up too? Nope outbound is on me
-- [ ] Check Zurich Airbnb
+- [x] Check Zurich Airbnb
 - [ ] Plan holidays year
-- [ ] Reschedule or give up on May 15th flight
-- [ ] Reschedule May flights — sort out period + how many days in August
+- [x] Reschedule or give up on May 15th flight
+- [x] Reschedule May flights — sort out period + how many days in August
 - [x] Book Madrid trains
 - [x] Book Aveiro flights + trains
 - [x] Book Lisbon Airbnb
@@ -40,7 +40,7 @@
 
 ## Content Creation / LifeMaxxing
 
-- [ ] Highfield AI and other editing tools saved on TikTok
+- [ ] Higgsfield AI and other editing tools saved on TikTok
 - [ ] Increase surface area for luck — Sidequest/LifeMaxxing
 - [ ] Content strategy / life planning
 - [ ] Structured content creation
@@ -117,7 +117,7 @@
 
 - [ ] Start investing
 - [ ] Ask team about Revolut investing
-- [ ] Puneet money back
+- [x] Puneet money back
 - [ ] Ask Raffaele Cocco money again
 - [ ] Reach out to Raffaele Cocco for 20€
 - [x] Latvian girl pizza money
@@ -138,7 +138,7 @@
 - [ ] Knitting stuff for Iulia
 - [ ] Schedule coffee with Fachtna
 - [ ] Shoot message to Lara for coffee rave
-- [ ] Send messages/referrals for Leo
+- [x] Send messages/referrals for Leo
 - [x] Elea birthday message/letter
 - [x] Reply to Elsi for wisdom teeth removal
 - [x] Reach out to Keith Howard
@@ -185,8 +185,8 @@
 - [x] Hide Elf bars properly
 - [x] Replace phone screen
 - [x] Check Carhartt aviation pants physically
-- [ ] Gigli life changing shoes
-- [ ] First Ascent  
+- [x] Gigli life changing shoes
+- [x] First Ascent  
   https://spain.firstascent.io/
 
 ## Food / Places / Experiences
@@ -195,25 +195,25 @@
 - [ ] Bologna getaway
 - [x] Water parks
 - [x] Palacio Chiado
-- [ ] Sagrada 140th anniversary band concert
-- [ ] Tour de France
-- [ ] Petardos
-- [ ] Golden flowers
-- [ ] Golden flowers on the ground
+- [x] Sagrada 140th anniversary band concert
+- [x] Tour de France
+- [x] Petardos
+- [x] Golden flowers
+- [x] Golden flowers on the ground
 - [ ] Acqua ossigenata worked for stains
-- [ ] I met Eduardo IRL
-- [ ] Park made out of hated bushes in backyard
+- [x] I met Eduardo IRL
+- [x] Park made out of hated bushes in backyard
 - [ ] Mental sanity music girl Tesco
 
 ## Random Notes / Stories To Tell
 
-- [ ] Tell about white hair
-- [ ] Tell about orange bottle
-- [ ] First new glass bottle — perfect timing
-- [ ] Another bottle + smoothie + caricature
-- [ ] Tell about Eduardo in person
-- [ ] Tell about golden flowers
-- [ ] Tell about Tour de France
-- [ ] Fire alarms
-- [ ] Tell about park made out of hated bushes
+- [x] Tell about white hair
+- [x] Tell about orange bottle
+- [x] First new glass bottle — perfect timing
+- [x] Another bottle + smoothie + caricature
+- [x] Tell about Eduardo in person
+- [x] Tell about golden flowers
+- [x] Tell about Tour de France
+- [x] Fire alarms
+- [x] Tell about park made out of hated bushes
 - [ ] Mention walking and fascia because of looking older
