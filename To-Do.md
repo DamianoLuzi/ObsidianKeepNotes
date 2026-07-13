@@ -18,6 +18,7 @@
     - [ ] potassium
     - [ ] adapters / powerbank
     - [ ] NorthFace raincoat
+    - [ ] fit 2/3 bananas in water bottle 
 - [ ] switzerland train booking - find discounts
 - [ ] more content creation during dead times
 
