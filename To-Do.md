@@ -1,4 +1,8 @@
 - [ ] troubleshoot Beckham law notification https://maps.app.goo.gl/XeSN897uStjpovPc7
+- [ ] black marker shoe
+- [ ] plan food for the week and trip
+- [ ] packing list 
+
 ## Travel & Logistics
 
 - [ ] Check what metro segments will be closed
