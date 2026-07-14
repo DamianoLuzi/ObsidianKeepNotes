@@ -25,7 +25,6 @@
 ## Travel & Logistics
 
 - [ ] Check what metro segments will be closed
-- [ ] Oncall Exemption
 - [ ] Going to the beach directly from office:
   - [ ] Keep shorts in backpack
   - [ ] Potentially pack bocata or look for pizza/bar nearby
