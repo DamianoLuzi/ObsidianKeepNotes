@@ -80,6 +80,8 @@ tags:
 - [ ] Comparison leading to ungratefulness which makes you feel like life/the work is rejecting you - assume the world is kind to you [TikTok](https://vm.tiktok.com/ZNRKVdYLK/)
 - [ ] as pretentious as it sounds, I was meant for something bigger https://vm.tiktok.com/ZNREsE237/
 - [ ] Bourdainmaxxing 🤪
+- [ ] as a guiri living in Spain, thankfully having the respect to take the time and effort to learn the language and soak yourself with the culture not one of those US based salary vultures , since Spanish contract based pay my taxes here and kinda contribute to the economy instead of exploiting 
+- [ ] 
 
 
 ## 💡 The Bottom Line / Introspection
