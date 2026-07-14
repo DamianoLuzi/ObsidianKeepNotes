@@ -11,6 +11,7 @@ tags:
 - [ ] I googled "good opening messages" before txting you, hated all of them, closed the tab, and decided to just tell you that instead
 - [ ] do you always look this good or did you do it just to impress me today? ....i'm not trying to impress anyone -> then how'd you manage to impress me?
 - [ ] Hi (louder than eveyone else)
+- [ ] this match feels expensive/premium 
 - [ ] Bonus points for [x]
 - [ ] Don't look at me like that -> "Like the kind of look that's going to scare me away from/to intimidate me into not asking you to grab a drink together." -> So you're doing it on purpose? Are you going to pull these cheeky shenanigans when we go grab a drink together?
 - [ ] Lowkey wish I was [object]/ the sun -> so I can light up your day from the moment you wake up to nightfall
