@@ -13,8 +13,8 @@ RSUs vest in USD (AMZN trades on NASDAQ). You only pay currency conversion when 
 
 1. Broker Choice: Fidelity
 
-  | Factor | Morgan Stanley | Fidelity | Verdict |
-  |---|---|---|---|
+  |  Factor  | Morgan Stanley | Fidelity | Verdict |
+  | --- | --- | --- | --- |
   | USD wire out | $7.50 | **$0** | Fidelity saves $7.50 every vest |
   | Online trade | $0 | $0 | Tie |
   | Phone trade | $0 | $4.95 | Irrelevant — Sell All is automatic |
@@ -35,7 +35,6 @@ RSUs vest in USD (AMZN trades on NASDAQ). You only pay currency conversion when 
   2. Tax Withholding Election: Sell All
 
   The 3 options
-
   ┌────────────────┬───────────────────────────────┬────────────────┬──────────────────────────────┐
   │     Method     │     What happens at vest      │  Shares you    │           Best for           │
   │                │                               │    receive     │                              │
