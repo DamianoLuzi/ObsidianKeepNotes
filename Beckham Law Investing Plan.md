@@ -27,6 +27,11 @@ RSUs vest in USD (AMZN trades on NASDAQ). You only pay currency conversion when 
   | Call center rating | 4.41/5 | 4.79/5 | Fidelity |
   | Website rating | 4.31/5 | 4.58/5 | Fidelity |
 
+
+|     |     |
+| --- | --- |
+|     |     |
+
   Why Fidelity: Morgan Stanley's advantages (Non-US ACH in EUR, flat conversion rate, free phone trades)
   don't matter for the IBKR workflow. You're sending USD straight out — the only real differentiator is
   the $0 wire fee. Over years of quarterly vests that adds up for zero extra effort. Higher
@@ -35,7 +40,19 @@ RSUs vest in USD (AMZN trades on NASDAQ). You only pay currency conversion when 
   2. Tax Withholding Election: Sell All
 
   The 3 options
-  ┌────────────────┬───────────────────────────────┬────────────────┬──────────────────────────────┐
+```
+
+|     |     |
+| --- | --- |
+|     |     |
+
+  │Method│ What happens at vest│      Shares you receive│Best for                
+  │ Sell for Taxes (default) │ Broker sells enough shares to cover tax, you keep the rest  │ Fewer shares, no cash needed │ People who want to hold AMZN          
+  │ Sell All                 │ ALL shares sold, taxes paid, net cash remainder sent to you │ 0 shares, cash in hand       │ People who want to reinvest elsewhere                        │
+  │ Pay Cash                 │ You pre-deposit cash to cover taxes, no shares sold         │ ALL shares                   │ Maximum AMZN exposure (must fund 5 trading days before vest) │
+```
+
+┌────────────────┬───────────────────────────────┬────────────────┬──────────────────────────────┐
   │     Method     │     What happens at vest      │  Shares you    │           Best for           │
   │                │                               │    receive     │                              │
   ├────────────────┼───────────────────────────────┼────────────────┼──────────────────────────────┤
