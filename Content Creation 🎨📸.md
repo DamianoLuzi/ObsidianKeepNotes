@@ -81,7 +81,37 @@ tags:
 - [ ] as pretentious as it sounds, I was meant for something bigger https://vm.tiktok.com/ZNREsE237/
 - [ ] Bourdainmaxxing 🤪
 - [ ] as a guiri living in Spain, thankfully having the respect to take the time and effort to learn the language and soak yourself with the culture not one of those US based salary vultures , since Spanish contract based pay my taxes here and kinda contribute to the economy instead of exploiting 
-- [ ] 
+- [ ] Real Luxuries of Adult Life
+
+1. Living 10 minutes from work
+
+2. Living 5 minutes from the gym
+
+3. Having quiet neighbors
+
+4. Having money left at the end of the month and investing it
+
+5. Peace at home
+
+6. Drinking coffee without rushing
+
+7. Sleeping with a clear conscience
+
+8. Laughing with people who truly get you
+
+9. Traveling every year
+
+10. Waking up without an alarm
+
+11. Having a body that doesn't hurt today
+
+12. Owning your time on weekends
+
+13. Saying "no" without guilt
+
+14. Not checking your bank balance before small purchases
+
+15. Feeling calm about the future
 
 
 ## 💡 The Bottom Line / Introspection
