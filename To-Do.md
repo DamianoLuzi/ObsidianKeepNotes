@@ -3,7 +3,7 @@
 - [ ] plan food for the week and trip
 - [ ] packing list:
 	- [ ] loopband
-	- [ ] sweatpants
+	- [x] sweatpants
 	- [ ] black pants
 	- [ ] hat
 	- [ ] shades just in case - [ ]
@@ -11,13 +11,13 @@
 	- [ ] shorts TBD
     - [ ] 2 white 1 green Tshirts
     - [ ] [x] normal Tshirts
-    - [ ] blue hoodie 
-    - [ ] black socks
-    - [ ] white socks
+    - [x] blue hoodie 
+    - [x] black socks
+    - [x] white socks
     - [ ] protein bars / powder 
     - [ ] potassium
     - [ ] adapters / powerbank
-    - [ ] NorthFace raincoat
+    - [x] NorthFace raincoat
     - [ ] fit 2/3 bananas in water bottle 
 - [ ] switzerland train booking - find discounts
 - [ ] more content creation during dead times
