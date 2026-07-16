@@ -113,6 +113,32 @@ tags:
 
 15. Feeling calm about the future
 
+- [ ] Life is so weird bro.
+
+People are literally working jobs they HATE. Every single day. For money. A man-made CONCEPT.
+
+We literally need money to
+
+pay to live, like what??
+
+We have a chance at being
+
+alive, being sentient, being
+
+conscious. Yet we spend
+
+our time doing things we
+
+ON'T LIKE DOING. HOW
+
+I can't wrap my head
+
+dbes that make any sense?
+
+around jt. What kind of society is this? Why can't we all just do hat we want
+
+to do?
+
 
 ## 💡 The Bottom Line / Introspection
 
