@@ -209,3 +209,7 @@
 - [x] Fire alarms
 - [x] Tell about park made out of hated bushes
 - [ ] Mention walking and fascia because of looking older
+
+
+Super prompts for learning/finance/design dream life
+https://vm.tiktok.com/ZNRow1gyB/
