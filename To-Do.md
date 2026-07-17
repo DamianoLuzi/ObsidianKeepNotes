@@ -3,6 +3,13 @@
 - [ ] plan food for the week and trip
 - [ ] packing list:
 	- [ ] loopband
+	- [ ] shampoo
+	- [ ] deodorant
+	- [ ] toiletries
+	- [ ] electronics 
+	- [ ] shaver
+	- [ ] new razor
+	- [ ] 
 	- [x] sweatpants
 	- [ ] black pants
 	- [ ] hat
