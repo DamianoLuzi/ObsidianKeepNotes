@@ -2,10 +2,10 @@
 - [x] black marker shoe
 - [ ] plan food for the week and trip
 - [ ] packing list:
-	- [ ] loopband
-	- [ ] shampoo
+	- [x] loopband
+	- [x] shampoo
 	- [ ] deodorant
-	- [ ] toiletries
+	- [x] toiletries
 	- [ ] electronics 
 	- [ ] shaver
 	- [ ] new razor
