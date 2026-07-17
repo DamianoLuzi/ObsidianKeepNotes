@@ -4,25 +4,25 @@
 - [ ] packing list:
 	- [x] loopband
 	- [x] shampoo
-	- [ ] deodorant
+	- [x] deodorant
 	- [x] toiletries
 	- [ ] electronics 
 	- [ ] shaver
-	- [ ] new razor
+	- [x] new razor
 	- [ ] 
 	- [x] sweatpants
-	- [ ] black pants
+	- [x] black pants
 	- [ ] hat
 	- [ ] shades just in case - [ ]
-	- [ ] cross body bag
+	- [x] cross body bag
 	- [ ] shorts TBD
-    - [ ] 2 white 1 green Tshirts
+    - [x] 2 white 1 green Tshirts
     - [ ] [x] normal Tshirts
     - [x] blue hoodie 
     - [x] black socks
     - [x] white socks
-    - [ ] protein bars / powder 
-    - [ ] potassium
+    - [x] protein bars / powder 
+    - [x] potassium
     - [ ] adapters / powerbank
     - [x] NorthFace raincoat
     - [ ] fit 2/3 bananas in water bottle 
