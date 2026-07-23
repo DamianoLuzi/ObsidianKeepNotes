@@ -200,3 +200,7 @@ Another theme i was thinking about is **core principles/non negotiables** i star
 Action drives confidence and *"nel mio piccolo"* / in my own small way i am trying to do that working on the tiktok drafts, oddly enough cutting back on some sleep, eventually i want to start reading, studying for the aws cert and this morning recording my face talking for the first time - yet not a great success but at least i am making an effort. 
 
 Being the one starting the convo this morning with the 2 guys at the gym was refreshing and proof i am able to get out of my comfort zone and attracting what you aim for (should rephrase with the proper law of attraction terms). But yeah the fact they were from barcelona specifically really makes me think: wow that has got to be destiny or it is a very weird coincidence. unfortunate
+
+---
+📆18/07/26
+
