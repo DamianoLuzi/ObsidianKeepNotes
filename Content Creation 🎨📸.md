@@ -117,6 +117,7 @@ tags:
 
 
 - [ ] always feeling like a burden
+- [ ] all of this dissonance and anxiety -> most likely in the middle of a serious quarter life crisis 
 
 People are literally working jobs they HATE. Every single day. For money. A man-made CONCEPT.
 
