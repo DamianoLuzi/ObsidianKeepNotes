@@ -115,6 +115,9 @@ tags:
 
 - [ ] Life is so weird bro.
 
+
+- [ ] always feeling like a burden
+
 People are literally working jobs they HATE. Every single day. For money. A man-made CONCEPT.
 
 We literally need money to
