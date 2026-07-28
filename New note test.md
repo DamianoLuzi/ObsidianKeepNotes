@@ -65,3 +65,45 @@ Here are 50 COMPANIES hiring for $100-500k FULLY-REMOTE Tech Roles in Europe:
 29. Sumsub
 
 30. Federato
+
+31. Infisical
+
+32. Sardine
+
+33. Arize Al
+
+34. Vannevar
+
+35. Supabase
+
+36. Hubstaff
+
+37. Framer
+
+38. Resend
+
+39. n8n
+
+40. Filevine
+
+41. Junction
+
+42. Metabase
+
+43. Natter
+
+44. MagicSchool Al
+
+45. Invisible Technologies
+
+46. Help Scout
+
+47. Supermove
+
+48. Deel
+
+49. Cohere
+
+50. ClickHouse
+
+Find many more at Euro TopTech.com
