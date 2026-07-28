@@ -118,6 +118,7 @@ tags:
 
 - [ ] always feeling like a burden
 - [ ] all of this dissonance and anxiety -> most likely in the middle of a serious quarter life crisis 
+- [ ] can't add days to your life but you can add life to your days 
 
 People are literally working jobs they HATE. Every single day. For money. A man-made CONCEPT.
 

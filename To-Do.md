@@ -1,5 +1,6 @@
 - [ ] troubleshoot Beckham law notification https://maps.app.goo.gl/XeSN897uStjpovPc7
 - [x] black marker shoe
+- [ ] message Elisa and look for retainer clinics
 - [ ] plan food for the week and trip
 - [ ] packing list:
 	- [x] loopband
