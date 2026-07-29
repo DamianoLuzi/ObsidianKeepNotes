@@ -204,3 +204,8 @@ Being the one starting the convo this morning with the 2 guys at the gym was ref
 ---
 📆18/07/26
 
+---
+29/07/2026
+Well after quite a while...the question: where do you see yourself in 6 months (career wise) hit fucking hard
+I probably have never acted so hard in my life of course as of the latest developments I lowkey thought imma get the fuck out of this prison with all the travelling bias I collected. On the other hand it's the usual thing that in a way this job gives me stability and allows me to plan and setup my future. But I NEED TO TAKE ACTION and make that a reality
+
