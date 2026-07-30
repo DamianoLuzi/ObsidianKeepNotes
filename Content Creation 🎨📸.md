@@ -50,6 +50,7 @@ tags:
 	- ***things i do/did to gain my spark back***
 - [ ] that post about thinking i had gotten my dream job at amazon realizing i just felt lost, tired etc... linked to [YouTube](https://youtu.be/nNrQl6Nbi4s?is=Hc9LExqR3F6_8Krd) and [TikTok](https://vm.tiktok.com/ZNRVAgcLL/)
 - [ ] Lifemaxxing 
+- [ ] my job is just beach Barbie/Ryan gosling reference... pretty accurate actually (BCN beach schedule)
 - [ ] Simon quitting his job
 - [ ] First month in BCN
 - [ ] Falling in the same negative cycles after just one month , somehow hating my life here too...at times
