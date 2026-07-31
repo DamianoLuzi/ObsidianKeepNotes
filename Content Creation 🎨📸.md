@@ -71,6 +71,7 @@ tags:
 - [ ] Childlike wonder in mundane life tasks/things
 - [ ] Barcelona move definitely improved mood cause of better weather, community, events environment and stuff but still the underlying strive for time freedom kept mentally taxing me as mentioned here [Instagram](https://www.instagram.com/reel/DYKt5ttR5Fm/?igsh=dWw0a2o2dnQ4a3U3)
 - [ ] Focused approach to each set during training - podcasts in the background - but mentally fully dedicated to it most people are always distracted and do not put even remotely high effort 
+- [ ] talk to strangers it will change your life https://vm.tiktok.com/ZN8ebykUT/
 - [ ] Eating more carbs
 - [ ] Balance kettlebells - strength - running ( - calisthenics?) and beach
 - [ ] Sidequest/LifeMaxxing
