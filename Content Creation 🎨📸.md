@@ -12,6 +12,7 @@ tags:
 - [ ] life as i see it & figuring it out🎞️
 - [ ] Start recording yourself/content creation streak (100 day challenge-ish)
 - [ ] Complete Life Mission Statement guide from HU [YouTube Link](https://youtu.be/gtXALK5UWqg?si=5fnO5dJwq1HiGI6l)
+- [ ] storytelling framework: what to post and how to make it interesting https://www.instagram.com/reel/DasZuAEx8my/?igsh=MWQwZzB6Y3BieGp2cg==
 - [ ] ikki no mei philosophy focusing on finding a tiny, specific, and mundane reason to live one more day, rather than pursuing a grand life purpose
 - [ ] Kept overthinking about people having more experience more knowledge more charisma more character more beauty but guess what I guess I might just put myself outthere and offer based on what I have experienced and share learnings lessons ideas - the more you experience the more you have to offer(HU wellness quote btw), or so far i will offer as much as I have experienced 
 - [ ] Not waiting until you feel ready you'll be waiting til you are dead
