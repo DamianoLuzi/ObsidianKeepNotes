@@ -85,6 +85,7 @@ tags:
 - [ ] as pretentious as it sounds, I was meant for something bigger https://vm.tiktok.com/ZNREsE237/
 - [ ] Bourdainmaxxing 🤪
 - [ ] as a guiri living in Spain, thankfully having the respect to take the time and effort to learn the language and soak yourself with the culture not one of those US based salary vultures , since Spanish contract based pay my taxes here and kinda contribute to the economy instead of exploiting 
+- [ ] JULY UPDATE: honestly daunting fear of having become and empty shell - accomplish nothing, stopped reading stopped enjoying movies music playing instruments dancing going to events always think about the idea of talking to people (especially girls maybe ?) but consistently fear it and do it very little which gts me to the current stage of being alone relationship wise, maybe only things are working out and eating. Trips I made especially Switzerland with nature got some spark back but whenever I had free time I suddenly felt lost. No purpose no direction no urgency why? It's like I always need something pushing me or pulling me to a new goal. Everything that happens in my life is my responsibility all of my problems ar recreated by me but acting as the person I want to be materializws the life I want but I need to fucking stick to it. I need accountability, stupid easy small first steps and get ball rolling
 - [ ] Real Luxuries of Adult Life
 
 1. Living 10 minutes from work
