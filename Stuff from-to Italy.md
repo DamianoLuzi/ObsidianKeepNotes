@@ -1,7 +1,8 @@
 
 - [ ] from 
 	- [ ] black shaker lid
-	- [ ] pants?
+	- [ ] pants? 
+	- [ ] dad's white pants
 - [ ] to 
 	- [ ] hoodies?
 
