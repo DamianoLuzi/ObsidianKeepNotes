@@ -3,6 +3,7 @@
 	- [ ] black shaker lid
 	- [ ] pants? 
 	- [ ] dad's white pants
+	- [ ] huge t shirts even if long to tuck in pants 
 - [ ] to 
 	- [ ] hoodies?
 
