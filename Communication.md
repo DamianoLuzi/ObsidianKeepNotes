@@ -15,7 +15,9 @@ tags:
 - [ ] Bonus points for [x]
 - [ ] Don't look at me like that -> "Like the kind of look that's going to scare me away from/to intimidate me into not asking you to grab a drink together." -> So you're doing it on purpose? Are you going to pull these cheeky shenanigans when we go grab a drink together?
 - [ ] Lowkey wish I was [object]/ the sun -> so I can light up your day from the moment you wake up to nightfall
-
+- [ ] Tats, jewellery, nails. Chat this might be it
+- [ ] you would look great as my lock screen 
+- [ ] this would be my 'this is her photo'
 ## Hinge weird question
 1. Give her 💩
 2. Playfully reject her
