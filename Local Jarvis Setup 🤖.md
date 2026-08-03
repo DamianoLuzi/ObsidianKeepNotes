@@ -109,13 +109,13 @@ Schedule any recipe (this rebuilds my crons for free). `~/Library/LaunchAgents/c
 
 ## Model cheat-sheet (24 GB)
 
-|Need|Model|
-|---|---|
-|Coding / agent loops|`qwen2.5-coder:14b`|
-|Vision|`qwen2.5vl` (7B)|
-|Fast text / notes|`qwen2.5:7b`|
-|Memory / RAG|`nomic-embed-text`|
-|Hard reasoning|Claude/ChatGPT via ACP (your sub)|
+| Need                 | Model                             |
+| -------------------- | --------------------------------- |
+| Coding / agent loops | `qwen2.5-coder:14b`               |
+| Vision               | `qwen2.5vl` (7B)                  |
+| Fast text / notes    | `qwen2.5:7b`                      |
+| Memory / RAG         | `nomic-embed-text`                |
+| Hard reasoning       | Claude/ChatGPT via ACP (your sub) |
 
 ## Skip these (anti-patterns)
 
