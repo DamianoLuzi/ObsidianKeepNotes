@@ -26,7 +26,7 @@ tags:
 - [ ] Tell your parents I'm a huge fan of their work
 - [ ] shout-out to whoever fumbled you 
 - [ ] You're so prettyyyy. Let's go on fun date and kiss :)
-- [ ]
+- [ ] shooters shoot even when it's windy 
 ## Hinge weird question
 1. Give her 💩
 2. Playfully reject her
