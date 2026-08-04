@@ -132,3 +132,7 @@ Agentic loops are much harder than chat; local models shine on private/simple/co
 ---
 
 Want me to go further? I can actually start executing this on your laptop (I'd verify Ollama's already here from your MeshClaw setup and pull the models), or tailor it more.
+
+
+Repo to replace subscription based services (WhisprFlow, etc)
+https://vm.tiktok.com/ZN8dDQecG/
