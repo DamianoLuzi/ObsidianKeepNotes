@@ -218,8 +218,11 @@
 - [x] Tell about park made out of hated bushes
 - [ ] Mention walking and fascia because of looking older
 
+
+**Work Exchange**
 https://www.workaway.info/
 https://www.worldpackers.com/
+https://wwoof.net/
 
 
 Super prompts for learning/finance/design dream life
