@@ -18,6 +18,15 @@ tags:
 - [ ] Tats, jewellery, nails. Chat this might be it
 - [ ] you would look great as my lock screen 
 - [ ] this would be my 'this is her photo'
+- [ ] Type of girl you'd save before the kids in a fire
+- [ ] Just shown my dog this and we both started barking
+- [ ] Where do I sign up on Disney+ to get access to this princess?
+- [ ] single by choice or is there an idiot I can thank
+- [ ] You dropped something. Hopefully its your standards. Hi I'm Damiano
+- [ ] Tell your parents I'm a huge fan of their work
+- [ ] shout-out to whoever fumbled you 
+- [ ] You're so prettyyyy. Let's go on fun date and kiss :)
+- [ ]
 ## Hinge weird question
 1. Give her 💩
 2. Playfully reject her
