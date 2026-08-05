@@ -24,9 +24,12 @@ tags:
 - [ ] single by choice or is there an idiot I can thank
 - [ ] You dropped something. Hopefully its your standards. Hi I'm Damiano
 - [ ] Tell your parents I'm a huge fan of their work
+- [ ] monkey want banana, damiano want you
 - [ ] shout-out to whoever fumbled you 
 - [ ] You're so prettyyyy. Let's go on fun date and kiss :)
 - [ ] shooters shoot even when it's windy 
+- [ ] I've read enough clear your schedule 
+- [ ] 
 ## Hinge weird question
 1. Give her 💩
 2. Playfully reject her
