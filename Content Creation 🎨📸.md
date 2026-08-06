@@ -81,6 +81,13 @@ tags:
 - [ ] The best things in life are on the other side of fear
 - [ ] always feeling like i was supposed for more: the fear of an average life
 - [ ] the paralysis of exactly knowing what you're supposed to do but not acting on it
+- [ ] how to become insanely lucky overnight
+
+luck is not some random gift people were born with. lucky people EXPECT life to work in their favour. they expect perfect timing, helpful people, unexpected money, easy opportunities and things somehow working out even when they looked completely impossible five minutes ago.
+
+most people do the opposite without noticing. they wake up expecting traffic, delays, rejection, bad news, wasted money and another annoying problem. then life reflects it and they call themselves unlucky. for the next 24 hours, think like reality is obsessed with helping you. tell yourself, "everything works for me," "I'm always at the right place," "people love helping me," and "something amazing always happens." let good thought create ten more.
+
+do not check every hour to see whether your luck changed. that is still expecting nothing. I've manifestea money, trips and opportunities from situations that made zero logical sense, sometimes within hours. onc expecting good things became normal, getting insanely lucky stopped feeling surprising.
 - [ ] Comparison leading to ungratefulness which makes you feel like life/the work is rejecting you - assume the world is kind to you [TikTok](https://vm.tiktok.com/ZNRKVdYLK/)
 - [ ] as pretentious as it sounds, I was meant for something bigger https://vm.tiktok.com/ZNREsE237/
 - [ ] Bourdainmaxxing 🤪
