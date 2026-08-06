@@ -2,6 +2,7 @@
 - [x] black marker shoe
 - [ ] message Elisa and look for retainer clinics
 - [ ] plan food for the week and trip
+- [ ] identity change article A systematic review of volitional personality change research
 - [ ] packing list:
 	- [x] loopband
 	- [x] shampoo
