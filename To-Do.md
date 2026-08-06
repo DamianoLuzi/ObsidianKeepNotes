@@ -4,6 +4,7 @@
 - [x] plan food for the week and trip
 - [ ] identity change article A systematic review of volitional personality change research
 - [ ] more content creation during downtimes 
+- [ ] 
 - [x] packing list:
 	- [x] loopband
 	- [x] shampoo
