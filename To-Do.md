@@ -1,34 +1,35 @@
-- [ ] troubleshoot Beckham law notification https://maps.app.goo.gl/XeSN897uStjpovPc7
+- [x] troubleshoot Beckham law notification https://maps.app.goo.gl/XeSN897uStjpovPc7
 - [x] black marker shoe
-- [ ] message Elisa and look for retainer clinics
-- [ ] plan food for the week and trip
+- [x] message Elisa and look for retainer clinics
+- [x] plan food for the week and trip
 - [ ] identity change article A systematic review of volitional personality change research
-- [ ] packing list:
+- [ ] more content creation during downtimes 
+- [x] packing list:
 	- [x] loopband
 	- [x] shampoo
 	- [x] deodorant
 	- [x] toiletries
-	- [ ] electronics 
-	- [ ] shaver
+	- [x] electronics 
+	- [x] shaver
 	- [x] new razor
-	- [ ] 
+	- [x] 
 	- [x] sweatpants
 	- [x] black pants
-	- [ ] hat
-	- [ ] shades just in case - [ ]
+	- [x] hat
+	- [x] shades just in case - [ ]
 	- [x] cross body bag
-	- [ ] shorts TBD
+	- [x] shorts TBD
     - [x] 2 white 1 green Tshirts
-    - [ ] [x] normal Tshirts
+    - [x] [x] normal Tshirts
     - [x] blue hoodie 
     - [x] black socks
     - [x] white socks
     - [x] protein bars / powder 
     - [x] potassium
-    - [ ] adapters / powerbank
+    - [x] adapters / powerbank
     - [x] NorthFace raincoat
-    - [ ] fit 2/3 bananas in water bottle 
-- [ ] switzerland train booking - find discounts
+    - [x] fit 2/3 bananas in water bottle 
+- [x] switzerland train booking - find discounts
 - [ ] more content creation during dead times
 
 ## Travel & Logistics
