@@ -5,6 +5,7 @@
 	- [ ] dad's white pants
 	- [ ] huge t shirts even if long to tuck in pants 
 	- [ ] black socks 
+	- [ ] Fan 🪭 
 - [ ] to 
 	- [ ] hoodies?
 
