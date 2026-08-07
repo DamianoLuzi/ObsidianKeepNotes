@@ -215,3 +215,5 @@ Encaged myself in an imaginary box
 That thought about the lack of purpose at work and the only thing helping is something I am not even supposed to do whichshould help me delegate/remove the work otherwise I would be supposed to do
 I envision escape, but what does my dream day to day look like?
 Tony stark as a childhood hero -> building my jarvis 
+Coping mechanisms used in my teens will destroy me in my twenties -> avoidance
+Manager telling me off for being distant during meetings
