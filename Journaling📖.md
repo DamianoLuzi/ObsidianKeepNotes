@@ -213,5 +213,5 @@ I probably have never acted so hard in my life of course as of the latest develo
 These recurring thoughts about depriving myself from everything that makes Spanish life notoriously good: social life , relaxed working culture, food etc.
 Encaged myself in an imaginary box
 That thought about the lack of purpose at work and the only thing helping is something I am not even supposed to do whichshould help me delegate/remove the work otherwise I would be supposed to do
-I envision escape, but what does my dre
+I envision escape, but what does my dream day to day look like?
 Tony stark as a childhood hero -> building my jarvis 
