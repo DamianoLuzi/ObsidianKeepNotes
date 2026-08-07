@@ -210,4 +210,4 @@ Well after quite a while...the question: where do you see yourself in 6 months (
 I probably have never acted so hard in my life of course as of the latest developments I lowkey thought imma get the fuck out of this prison with all the travelling bias I collected. On the other hand it's the usual thing that in a way this job gives me stability and allows me to plan and setup my future. But I NEED TO TAKE ACTION and make that a reality
 
 07/08/2026
-These recurring thoughts about depriving myself from everything that makes Spanish life renou
+These recurring thoughts about depriving myself from everything that makes Spanish life notoriously good. 
