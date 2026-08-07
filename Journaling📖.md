@@ -217,3 +217,4 @@ I envision escape, but what does my dream day to day look like?
 Tony stark as a childhood hero -> building my jarvis 
 Coping mechanisms used in my teens will destroy me in my twenties -> avoidance
 Manager telling me off for being distant during meetings
+(stolen line, but) build a life I don't need to escape from, closely related to my thoughts of having to put on a mask everyday 
