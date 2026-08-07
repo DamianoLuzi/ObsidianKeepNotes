@@ -212,4 +212,4 @@ I probably have never acted so hard in my life of course as of the latest develo
 07/08/2026
 These recurring thoughts about depriving myself from everything that makes Spanish life notoriously good: social life , relaxed working culture, food etc.
 Encaged myself in an imaginary box
-That though
+That thought about the lack of purpose at work and the only thing helping is something I am not even supposed to do whichshould help me delegate/remove the work otherwise I would be supposed to do
